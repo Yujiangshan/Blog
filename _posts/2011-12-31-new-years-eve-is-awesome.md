@@ -1,3 +1,13 @@
+---
+
+layout:     post
+title:      文件目录
+subtitle:   Mac终端显示结构
+date:       2017-03-07
+author:     BY
+header-img: img/post-bg-debug.png
+
+---
 
 # 前言
 
