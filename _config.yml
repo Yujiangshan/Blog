@@ -1,9 +1,9 @@
 # Site settings
 title: 菩提之路
-SEOTitle: 
+SEOTitle: 菩提之路
 header-img: img/post-bg-2015.jpg 
 email: 
-description: "色空不二"
+description: ""
 keyword: ""
 url: "http://yujiangshan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
