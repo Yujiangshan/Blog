@@ -1,15 +1,16 @@
-———
+
+------
+
 layout:     post
-title:      快速添加圆角和描边
-subtitle:   iOS 为图片添加圆角和描边的几种方式
-date:       2016-12-01
+title:      OC 内存管理的基本概念
+subtitle:   OC 内存管理的基本概念以及应用
+date:       2020-10-09
 author:     BY
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
     - iOS
-    - 开发技巧
-———
+------
 
 # 前言
 
