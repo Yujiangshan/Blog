@@ -1,17 +1,4 @@
 
-------
-
-layout:     post
-title:      OC 内存管理的基本概念
-subtitle:   OC 内存管理的基本概念以及应用
-date:       2020-10-09
-author:     BY
-header-img: img/post-bg-cook.jpg
-catalog: true
-tags:
-    - iOS
-------
-
 # 前言
 
 对于习惯使用Storyboard的人来说，设置圆角、描边是一件比较蛋疼的事，因为苹果没有在xcode的Interface Builder上直接提供修改控件的圆角，边框设置。
